@@ -1,28 +1,34 @@
-# 👋 Hola, soy Paco
+# 👋 Hi, I'm Paco
 
-🎓 Estudiante de Matemáticas e Ingeniería Informática  
-💻 Apasionado por **Backend con Java y Spring Boot**  
-🚀 Actualmente trabajando en **RedCheck**
+🎓 Mathematics and Computer Science student 
+💻 Interested in **Backend with Java and Spring Boot**  
+<!--🚀 Actualmente trabajando en **RedCheck**
+-->
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-- Lenguajes: Java, Haskell, Python, JavaScript
-- Frameworks: Spring Boot, React
-- Bases de datos: Oracle, PostgreSQL, MySQL
-- Herramientas: Git, Docker, Linux
+- Languages: Java, C, C++, Pyhton, PL/SQL, Haskell
+- Frameworks: Spring Boot
+- Data bases: Oracle, MySQL
+- Tools: Git, Docker, Linux
 
 ---
 
-## 📊 Mis estadísticas
+## 📊 My Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pacolias&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacolias&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ## 🚀 Proyectos destacados
 - [🔐 RedCheck](https://github.com/TU_USUARIO/RedCheck): Aplicación de productividad y seguridad.
