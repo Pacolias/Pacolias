@@ -41,7 +41,8 @@
 </p>
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 - [🔐 RedCheck](https://github.com/Pacolias/RedCheck): Productivity and security application.
 - [📊 Numerical Algorithms](https://github.com/Pacolias/optimizacion-compiladores): Compiler optimization using numerical methods.
+-->
