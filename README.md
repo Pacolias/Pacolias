@@ -27,7 +27,7 @@
 - [🔐 RedCheck](https://github.com/TU_USUARIO/RedCheck): Aplicación de productividad y seguridad.
 - [📊 Algoritmos Numéricos](https://github.com/TU_USUARIO/optimizacion-compiladores): Optimización en compiladores con métodos numéricos.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pacolias&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
 
 
 <!-- ## Hi there 👋
