@@ -23,6 +23,12 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
+## 🚀 Proyectos destacados
+- [🔐 RedCheck](https://github.com/TU_USUARIO/RedCheck): Aplicación de productividad y seguridad.
+- [📊 Algoritmos Numéricos](https://github.com/TU_USUARIO/optimizacion-compiladores): Optimización en compiladores con métodos numéricos.
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+
 
 <!-- ## Hi there 👋
 -->
