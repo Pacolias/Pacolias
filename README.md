@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Paco
 
-🎓 Mathematics and Computer Science student 
-💻 Interested in **Backend with Java and Spring Boot**  
+- 🎓 Mathematics and Computer Science student 
+- 💻 Interested in **Backend with Java and Spring Boot**  
 <!--🚀 Actualmente trabajando en **RedCheck**
 -->
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 - Languages: Java, C, C++, Pyhton, PL/SQL, Haskell
 - Frameworks: Spring Boot
 - Data bases: Oracle, MySQL
@@ -34,8 +34,10 @@
 - [🔐 RedCheck](https://github.com/TU_USUARIO/RedCheck): Aplicación de productividad y seguridad.
 - [📊 Algoritmos Numéricos](https://github.com/TU_USUARIO/optimizacion-compiladores): Optimización en compiladores con métodos numéricos.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pacolias&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pacolias&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="180em"/>
+</p>
 
 <!-- ## Hi there 👋
 -->
