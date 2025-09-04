@@ -39,9 +39,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pacolias&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="180em"/>
 </p>
-
----
 <!--
+---
+
 ## 🚀 Featured Projects
 - [🔐 RedCheck](https://github.com/Pacolias/RedCheck): Productivity and security application.
 - [📊 Numerical Algorithms](https://github.com/Pacolias/optimizacion-compiladores): Compiler optimization using numerical methods.
